@@ -1,0 +1,13 @@
+# Site settings
+title: Boston AI in Medicine
+email: contact@aim.boston
+description: > # this means to ignore newlines until "baseurl:"
+  Central hub for AI in medicine
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: BostonAIM
+github_username: BostonAIM
+
+# Build settings
+markdown: kramdown
